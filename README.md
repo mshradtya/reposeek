@@ -1,7 +1,3 @@
-Here's your updated **README** with the new project name **RepoSeek-AI**:  
-
----
-
 # RepoSeek-AI  
 
 **RepoSeek-AI** is an AI-powered platform that helps developers find the best open-source projects to contribute to. With smart recommendations, AI-generated insights, and advanced filtering, RepoSeek-AI makes discovering and understanding repositories effortless.  
@@ -109,7 +105,3 @@ If you'd like to contribute to **RepoSeek-AI**, follow these steps:
 ## License  
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
-
----
-
-Let me know if you want any changes! 🚀
