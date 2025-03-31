@@ -2,9 +2,6 @@
 
 **RepoSeek-AI** is an AI-powered platform that helps developers find the best open-source projects to contribute to. With smart recommendations, AI-generated insights, and advanced filtering, RepoSeek-AI makes discovering and understanding repositories effortless.  
 
-### Tagline:  
-**Explore, Seek, Contribute.**  
-
 ## Features to be Implemented  
 
 ### 🛠️ **Core Features (in order of implementation)**  
@@ -40,68 +37,3 @@
 8. **Personalized Contribution Recommendations**  
    - [ ] **Intelligent Recommendations**: Suggest repositories based on experience level and activity.  
    - [ ] **Contribution History**: Integrate with GitHub to track past contributions for better recommendations.  
-
----
-
-## Tech Stack  
-
-- **Backend**: Node.js  
-- **AI & Summarization**: LangChain.js, OpenAI API  
-- **Database**: MongoDB  
-- **Frontend**: TBD (API-first approach or simple frontend)  
-
----
-
-## Getting Started  
-
-### Prerequisites  
-
-- **Node.js** (v14 or higher)  
-- **MongoDB** (for database storage)  
-- **GitHub API Token** (for accessing GitHub repositories)  
-- **OpenAI API Key** (for AI-powered summarization)  
-
-### Installation  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/reposeek-ai.git
-   cd reposeek-ai
-   ```  
-
-2. Install dependencies:  
-   ```bash
-   npm install
-   ```  
-
-3. Set up environment variables:  
-   - Create a `.env` file in the root directory with the following:  
-     ```
-     GITHUB_API_TOKEN=your-github-token
-     OPENAI_API_KEY=your-openai-api-key
-     ```  
-
-4. Run the application:  
-   ```bash
-   npm start
-   ```  
-
-The app should now be running on `http://localhost:3000`.  
-
----
-
-## Contributing  
-
-If you'd like to contribute to **RepoSeek-AI**, follow these steps:  
-
-1. Fork the repository  
-2. Create a new branch (`git checkout -b feature-name`)  
-3. Commit your changes (`git commit -m 'Add new feature'`)  
-4. Push to the branch (`git push origin feature-name`)  
-5. Open a pull request  
-
----
-
-## License  
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
